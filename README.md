@@ -1,4 +1,4 @@
-# minhas_financas
+# minhas despesas
 
 A new Flutter project.
 
